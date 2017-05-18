@@ -1,0 +1,4 @@
+0,Dell,i5,16Gb,520gb,599
+1,Toshina,i7,8Gb,520gb,799
+2,Sony,i5,8Gb,520gb,499
+3,Acer,i7,32Gb,520gb,559
